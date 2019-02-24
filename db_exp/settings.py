@@ -31,7 +31,7 @@ ALLOWED_HOSTS = []
 # Application definition
 
 INSTALLED_APPS = [
-    'simple_app.apps.Simpele_appConfig',
+    'simple_app',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
